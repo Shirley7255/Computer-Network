@@ -1,0 +1,14 @@
+﻿  client.cpp
+C:\Users\19753\Desktop\cn_lab2\client\common.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\19753\Desktop\cn_lab2\client\client.cpp(130,46): warning C4244: “=”: 从“const _Ty”转换到“uint32_t”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\19753\Desktop\cn_lab2\client\client.cpp(258,42): warning C4244: “=”: 从“const _Ty”转换到“uint32_t”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\19753\Desktop\cn_lab2\client\client.cpp(269,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> C:\Users\19753\Desktop\cn_lab2\client\x64\Debug\client.exe
