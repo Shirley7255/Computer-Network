@@ -1,0 +1,2 @@
+C:\Users\19753\Desktop\ChatServer\ChatServer\x64\Debug\ChatServer.exe
+C:\Users\19753\Desktop\ChatRoom\ChatServer\x64\Debug\ChatServer.exe
